@@ -7,4 +7,6 @@ git status
 git comit
 
 
+git remote add rigin Repo name 
 
+git push origin master
